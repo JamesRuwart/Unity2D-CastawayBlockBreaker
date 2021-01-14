@@ -280,4 +280,5 @@ MonoBehaviour:
   gamesSpeed: 1
   pointsPerBlockDestroyed: 20
   scoreText: {fileID: 4885731303799681559}
+  isAutoPlayEnabled: 0
   currentScore: 0
